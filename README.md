@@ -1,5 +1,5 @@
 # pizzahut
-Test to wisdmlabs
+AngularJs sample project developed By Akshay Jedhe
 
 1. npm install
 2. bower install
