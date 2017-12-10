@@ -1,8 +1,8 @@
 {
-  "name": "angular-seed",
-  "description": "A starter project for AngularJS",
-  "version": "0.0.0",
-  "homepage": "https://github.com/angular/angular-seed",
+ "name": "pizzaHut",
+    "version": "0.0.1",
+    "description": "Pizza Hut developed by Akshay Jedhe",
+    "homepage": "https://github.com/akshayjedhe/pizzahut.git",
   "license": "MIT",
   "private": true,
   "dependencies": {
